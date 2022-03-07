@@ -20,8 +20,7 @@
 
 ### Google Colab을 이용한 실습
 - Google colab.을 이용하면 실습코드를 불러와서 바로 실습을 진행할 수 있습니다.
-- [https://colab.research.google.com/github/](https://colab.research.google.com/github/)
-- hufsaim으로 검색 후, hufsaim/T10402201을 선택하면 업로드된 실습파일들을 확인할 수 있습니다.
+- [https://colab.research.google.com/github/hufsaim/T10402201](https://colab.research.google.com/github/hufsaim/T10402201)
 - Chrome browser를 사용하는 것을 권장합니다.
 
 ### 
